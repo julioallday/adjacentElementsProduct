@@ -23,7 +23,7 @@ export default function main(document) {
   const el_quantidadeInput = window.prompt(
     `Intstruções:
     Minimo 2, Máximo 10!
-    Digite a quantidade de numeros selecionados!
+    Digite a quantidade de numeros que serão acrescentados na lista!
     `
   );
   const array = [];
